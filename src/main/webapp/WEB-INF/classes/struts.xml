@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"https://struts.apache.org/dtds/struts-2.3.dtd">
+
+
+
+<struts>
+
+    <package name="strut01"   extends="struts-default">
+        <action name="home">
+            <result>/login.jsp</result>
+        </action>
+        <action name="login" class="edu.epic.strut01.LoginAction">
+            <result name="success">/welcome.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
+
+    </package>
+
+</struts>

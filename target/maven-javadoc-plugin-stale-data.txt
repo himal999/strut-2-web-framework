@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'/home/himal/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar:/home/himal/.m2/repository/org/apache/struts/struts2-core/6.0.3/struts2-core-6.0.3.jar:/home/himal/.m2/repository/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.jar:/home/himal/.m2/repository/ognl/ognl/3.3.3/ognl-3.3.3.jar:/home/himal/.m2/repository/org/javassist/javassist/3.29.0-GA/javassist-3.29.0-GA.jar:/home/himal/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar:/home/himal/.m2/repository/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar:/home/himal/.m2/repository/commons-io/commons-io/2.9.0/commons-io-2.9.0.jar:/home/himal/.m2/repository/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar:/home/himal/.m2/repository/org/apache/commons/commons-text/1.8/commons-text-1.8.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/himal/Development/Framework/strut-2/strut01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/himal/Development/Framework/strut-2/strut01/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'strut01 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/himal/Development/Framework/strut-2/strut01/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'strut01 1.0.0 API'
+edu.epic.strut01
+/home/himal/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar = 1666713610000
+/home/himal/.m2/repository/org/apache/struts/struts2-core/6.0.3/struts2-core-6.0.3.jar = 1667908943000
+/home/himal/.m2/repository/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.jar = 1667908944000
+/home/himal/.m2/repository/ognl/ognl/3.3.3/ognl-3.3.3.jar = 1667908941000
+/home/himal/.m2/repository/org/javassist/javassist/3.29.0-GA/javassist-3.29.0-GA.jar = 1667908942000
+/home/himal/.m2/repository/org/apache/logging/log4j/log4j-api/2.18.0/log4j-api-2.18.0.jar = 1667908941000
+/home/himal/.m2/repository/commons-fileupload/commons-fileupload/1.4/commons-fileupload-1.4.jar = 1667908942000
+/home/himal/.m2/repository/commons-io/commons-io/2.9.0/commons-io-2.9.0.jar = 1667908942000
+/home/himal/.m2/repository/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar = 1667908944000
+/home/himal/.m2/repository/org/apache/commons/commons-text/1.8/commons-text-1.8.jar = 1667908943000
+/home/himal/Development/Framework/strut-2/strut01/src/main/java = 1667906148000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/package-list = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/help-doc.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/constant-values.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/allclasses-frame.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/script.js = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/allclasses-noframe.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/index-all.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/overview-tree.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/deprecated-list.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/index.html = 1667989788000
+/home/himal/Development/Framework/strut-2/strut01/target/apidocs/stylesheet.css = 1667982798000
